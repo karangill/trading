@@ -1,0 +1,1 @@
+timestamp,campaign_id,trade_id,ticker,action,instrument,quantity,price,underlying_price,reason,plan_compliance,emotional_state,pnl_after_action_dollars,notes

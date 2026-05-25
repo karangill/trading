@@ -1,0 +1,1 @@
+campaign_id,ticker,direction,instrument,qty,avg_cost,current_price,current_value,unrealized_pnl_dollars,planned_max_loss_dollars,invalidation,next_trim_target,overnight_risk,current_plan,last_updated

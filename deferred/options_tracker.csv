@@ -1,0 +1,1 @@
+trade_id,ticker,direction,expiration,strike,c_p,dte_entry,delta_entry,iv_entry,bid,ask,spread_pct,entry_premium,exit_premium,underlying_entry,underlying_exit,option_pnl_pct,contract_selection_grade,liquidity_ok,theta_iv_notes
